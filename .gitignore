@@ -1,0 +1,13 @@
+node_modules/
+source/dist/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+*.pdf
+articles.json
+exports/
+downloads/
+.DS_Store
+Thumbs.db

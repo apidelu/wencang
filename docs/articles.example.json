@@ -1,0 +1,13 @@
+{
+  "account": {
+    "name": "示例公众号"
+  },
+  "articles": [
+    {
+      "title": "示例文章：请替换为自己的文章链接",
+      "publishedAt": "2026-11-03",
+      "url": "https://mp.weixin.qq.com/s/REPLACE_WITH_ARTICLE_ID"
+    }
+  ],
+  "count": 1
+}
